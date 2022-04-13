@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/todo-list-app/static/js/main.7aabe7fe.js",
+    "static/media/react-icon.png": "/todo-list-app/static/media/react-icon.20ec11c4799854e3803d.png",
+    "index.html": "/todo-list-app/index.html",
+    "main.7aabe7fe.js.map": "/todo-list-app/static/js/main.7aabe7fe.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7aabe7fe.js"
+  ]
+}
